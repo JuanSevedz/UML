@@ -18,3 +18,5 @@ Las cartas numéricas suman su valor, las figuras como _"J,Q,K"_ Suman 10 y el A
 
 ![Clases](out/diagramas/clases/clases.png)
 - Diagramas de secuencia:
+
+'##dirección para ver uml: https://plantuml.com/es/class-diagram'
